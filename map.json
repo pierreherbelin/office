@@ -29,6 +29,39 @@
         }, 
         {
          "draworder":"topdown",
+         "id":14,
+         "name":"objectLayer",
+         "objects":[
+                {
+                 "height":30.2321019941157,
+                 "id":2,
+                 "name":"pond",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":126.263484798954,
+                 "x":1345.32853873815,
+                 "y":737.129780974175
+                }, 
+                {
+                 "height":119.150049035633,
+                 "id":4,
+                 "name":"wall",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32.0104609349462,
+                 "x":1153.26577312847,
+                 "y":970.983981693364
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
          "objects":[],
@@ -38,8 +71,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":14,
- "nextobjectid":1,
+ "nextlayerid":17,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.1",
