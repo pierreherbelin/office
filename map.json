@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/kartable.atlassian.net\/secure\/RapidBoard.jspa?rapidView=33&view=detail&selectedIssue=KAR-7239&assignee=5db16763dea2ad0c348493d2"
+                 "value":"https:\/\/kartable.atlassian.net\/jira\/your-work"
                 }],
          "type":"tilelayer",
          "visible":true,
