@@ -55,7 +55,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/www.cjoint.com\/doc\/16_09\/FIsxS52QXY7_Rick-Astley---Never-Gonna-Give-You-Up.mp3"
+                 "value":"assets\/best_sound_ever.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/zoom.us\/j\/97723194510?pwd=QVJNUXhDMlkwMUo1aE5LSERseTcxUT09"
+                 "value":"https:\/\/www.facebook.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
