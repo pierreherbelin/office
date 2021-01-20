@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/kartable.atlassian.net\/jira\/your-work"
+                 "value":"https:\/\/www.kartable.fr\/"
                 }],
          "type":"tilelayer",
          "visible":true,
