@@ -924,7 +924,7 @@
         {
          "columns":16,
          "firstgid":1345,
-         "image":"..\/..\/Bureau\/tilsesets-bar.png",
+         "image":"tilesets\/tilsesets-bar.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
