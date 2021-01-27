@@ -2555,6 +2555,19 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":20,
+         "firstgid":2889,
+         "image":"tilesets\/tilesets-amongus.png",
+         "imageheight":2024,
+         "imagewidth":660,
+         "margin":0,
+         "name":"tilesets-amongus",
+         "spacing":0,
+         "tilecount":1260,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
