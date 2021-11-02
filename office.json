@@ -196,13 +196,13 @@
                  "text":
                     {
                      "color":"#ffffff",
-                     "text":"Room 1",
+                     "text":"DSU team 1",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":67.2742317750899,
-                 "x":155.758111310886,
+                 "width":107.798919841636,
+                 "x":115.23342324434,
                  "y":195.011278195489
                 }, 
                 {
@@ -213,13 +213,13 @@
                  "text":
                     {
                      "color":"#ffffff",
-                     "text":"Room 2",
+                     "text":"DSU team 2",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":67.2742,
-                 "x":475.862736547892,
+                 "width":103.533131427962,
+                 "x":439.60380511993,
                  "y":195.011278195489
                 }, 
                 {
@@ -230,13 +230,13 @@
                  "text":
                     {
                      "color":"#ffffff",
-                     "text":"Room 3",
+                     "text":"DSU team 3",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":67.2742,
-                 "x":827.977806832298,
+                 "width":96.0680573104404,
+                 "x":799.183949521858,
                  "y":194.122098725074
                 }, 
                 {
@@ -247,13 +247,13 @@
                  "text":
                     {
                      "color":"#ffffff",
-                     "text":"Room 4",
+                     "text":"DSU team 4?",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":67.2742,
-                 "x":1242.33544004577,
+                 "width":104.599570587608,
+                 "x":1206.01006945816,
                  "y":194.122098725074
                 }],
          "opacity":1,
@@ -266,7 +266,7 @@
  "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -2571,6 +2571,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":46
 }
